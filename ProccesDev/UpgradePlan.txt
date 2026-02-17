@@ -1,0 +1,49 @@
+1. memperbarui agian menu bar:
+Home → Halaman utama, perkenalan singkat.
+
+a. About Me → Cerita singkat tentang latar belakang, minat, dan tujuan karier.
+
+b. Projects / Works → Hasil karya, tugas kuliah, atau proyek pribadi yang menunjukkan keterampilan.
+
+c. Skills → Daftar kemampuan teknis maupun soft skills (misalnya teamwork, komunikasi).
+- Menambahkan section "Skills that I Developed" menyajikan Skill yang sedang dikembangkan
+- "Learning Journey", menggantikan bagian Hear From My Clients:
+
+Timeline Semester
+Buat garis waktu dari semester awal sampai sekarang, tunjukkan skill atau proyek yang dipelajari tiap tahap.
+
+Contoh (hanya contoh):
+
+    Semester 1 → Belajar dasar HTML & CSS
+
+    Semester 2 → Membuat website statis pertama
+
+    Semester 3 → Ikut hackathon, belajar JavaScript
+
+    Semester 4 → Bangun chatbot dengan open-source model
+
+Milestone Cards
+Mirip dengan testimoni card, tapi isinya pencapaian pribadi.
+
+    "Pertama kali deploy website ke GitHub Pages"
+
+    "Menang lomba desain UI di kampus"
+
+    "Berhasil mengintegrasikan API untuk chatbot"
+
+Skill Growth Chart
+Visualisasi perkembangan skill (misalnya grafik atau progress bar). Bisa tunjukkan peningkatan dari “beginner” ke “intermediate” di beberapa bidang.
+
+Refleksi Singkat
+Tambahkan kutipan pribadi tentang apa yang dipelajari atau tantangan yang dihadapi. Ini memberi sentuhan personal.
+Misalnya: "Awalnya saya kesulitan memahami responsive design, tapi setelah mencoba beberapa proyek, saya jadi lebih percaya diri."
+
+d. Collaboration → Bagian khusus yang menekankan minatmu untuk bekerja sama, bisa berisi ajakan atau contoh pengalaman kolaborasi.
+
+e. Growth / Learning → Menunjukkan bahwa kamu aktif belajar, misalnya sertifikat, kursus, atau kegiatan organisasi.
+
+f. Contact → Cara mudah dihubungi (email, LinkedIn, WhatsApp, github).
+mengUpgrade desain bagian Contact dengan menambahkan beberapa komponenseperti pada Foto 2
+
+
+2. memastikan tampilan responsive (tampilan tidak rusak) di semua device
